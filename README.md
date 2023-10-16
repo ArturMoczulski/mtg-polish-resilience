@@ -20,6 +20,8 @@ In `printables/full-deck.pdf` you can find a ready to print document of all card
 
 ## Cards
 
+![Polish Resilience MTG Deck](https://github.com/ArturMoczulski/mtg-polish-resilience/blob/main/Deck%20Collage.png?raw=true)
+
 **Creatures:**
 
 - Warsaw Defender <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
