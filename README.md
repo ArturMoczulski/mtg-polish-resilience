@@ -125,3 +125,7 @@ Then there was a number of adjusments. The full chat log can be found in `chatgp
 ### Art
 
 The art was generated with Stable Diffusion model running on (RunDiffusion)[https://rundiffusion.com/] service.
+
+### Card assembly
+
+The cards were assembled using (MTG Cards Smith)[https://mtgcardsmith.com/].
