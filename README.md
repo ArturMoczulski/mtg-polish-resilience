@@ -8,6 +8,16 @@ The idea behind the deck is to express the resilience of the Polish soldiers dur
 
 In play tests the deck tested succesfully to express this strategy.
 
+## Preparing for play
+
+### Proxy labels
+
+The fastest way to actually play the deck is to use proxy labels if you don't want to print the actual cards. You can find a PDF in `printables/proxy-labels.pdf` with card names and compact descriptions to print, cut out and put in front of traditional cards in card sleeves.
+
+### Printing actual cards
+
+In `printables/full-deck.pdf` you can find a ready to print document of all cards in standard MTG size 2.5in x 3.5in. It includes the whole deck composition, including basic lands and tokens.
+
 ## Cards
 
 **Creatures:**
