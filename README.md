@@ -12,16 +12,14 @@ In play tests the deck tested succesfully to express this strategy.
 
 **Creatures:**
 
-- Warsaw Defender ![R](https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a)![W](https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/b3463f1a-3ba8-4f42-bd95-afbd06bd6302|width=12)
-
-
-- Partisan Guerrilla {1}{W}
-- Solidarity Activist {2}{W}
-- Uprising Leader {1}{R}
-- Gdańsk Shipbuilder {2}{R}
-- Pilsudski's Cavalry {3}{R}
-- Home Army Spy {2}{W}
-- Lech Walesa, the Solidarity {2}{R}{W}
+- Warsaw Defender <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- Partisan Guerrilla {1} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- Solidarity Activist {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- Uprising Leader {1} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
+- Gdańsk Shipbuilder {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
+- Pilsudski's Cavalry {3} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
+- Home Army Spy {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- Lech Walesa, the Solidarity {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 
 ---
 
