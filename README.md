@@ -50,9 +50,12 @@ AI-generated MTG deck themed with history of Poland 1918-1989
 
 **Basic Lands:**
 
-- Plains 001
-- Plains 002
-- Plains 003
+- Warmia-Mazury (Plains) 001
+- Warmia-Mazury (Plains) 002
+- Warmia-Mazury (Plains) 003
+- Silesia (Mountains) 001
+- Silesia (Mountains) 002
+- Silesia (Mountains) 003
 
 ---
 
