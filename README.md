@@ -2,6 +2,12 @@
 
 AI-generated MTG deck themed with history of Poland 1918-1989
 
+## Strategy
+
+The idea behind the deck is to express the resilience of the Polish soldiers during the World War II oppression from the Nazi Germany and Russia. This is expressed in game mechanics that punish the opponent for aggression. Creatures get buffed if they are dealt damage and mechanics are used to strike back stronger as a response to aggression.
+
+In play tests the deck tested succesfully to express this strategy.
+
 ## Cards
 
 **Creatures:**
