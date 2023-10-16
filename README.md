@@ -25,24 +25,24 @@ In play tests the deck tested succesfully to express this strategy.
 
 **Enchantments:**
 
-- Echoes of History {2}{W}
-- Resilient Spirit {1}{R}
-- Polish Resolve {2}{R}
-- Solidarity's Stand {3}{W}
+- Echoes of History {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- Resilient Spirit {1} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
+- Polish Resolve {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
+- Solidarity's Stand {3} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 
 ---
 
 **Instants:**
 
-- Warsaw's Retribution {1}{W}
-- Martial Law {R}{W}
-- Fire of Resistance {1}{R}
+- Warsaw's Retribution {1} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- Martial Law  <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- Fire of Resistance {1} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
 
 ---
 
 **Planeswalker:**
 
-- Lech Walesa, Leader of Change {2}{R}{W}
+- Lech Walesa, Leader of Change {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 
 ---
 
@@ -74,37 +74,37 @@ In play tests the deck tested succesfully to express this strategy.
 
 **Creatures:**
 
-- 4x Warsaw Defender {R}{W}
-- 3x Partisan Guerrilla {1}{W}
-- 3x Solidarity Activist {2}{W}
-- 3x Uprising Leader {1}{R}
-- 1x Gdańsk Shipbuilder {2}{R}
-- 1x Pilsudski's Cavalry {3}{R}
-- 1x Home Army Spy {2}{W}
-- 1x Lech Walesa, the Solidarity {2}{R}{W}
+- 4x Warsaw Defender  <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- 3x Partisan Guerrilla {1} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- 3x Solidarity Activist {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- 3x Uprising Leader {1} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
+- 1x Gdańsk Shipbuilder {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
+- 1x Pilsudski's Cavalry {3} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
+- 1x Home Army Spy {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- 1x Lech Walesa, the Solidarity {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 
 ---
 
 **Enchantments:**
 
-- 1x Echoes of History {2}{W}
-- 1x Resilient Spirit {1}{R}
-- 1x Polish Resolve {2}{R}
-- 1x Solidarity's Stand {3}{W}
+- 1x Echoes of History {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- 1x Resilient Spirit {1} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
+- 1x Polish Resolve {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
+- 1x Solidarity's Stand {3} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 
 ---
 
 **Instants:**
 
-- 1x Warsaw's Retribution {1}{W}
-- 1x Martial Law {R}{W}
-- 1x Fire of Resistance {1}{R}
+- 1x Warsaw's Retribution {1} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- 1x Martial Law  <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- 1x Fire of Resistance {1} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
 
 ---
 
 **Planeswalker:**
 
-- 1x Lech Walesa, Leader of Change {2}{R}{W}
+- 1x Lech Walesa, Leader of Change {2} <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 
 ---
 
