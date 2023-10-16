@@ -12,9 +12,13 @@ In play tests the deck tested succesfully to express this strategy.
 
 ### Proxy labels
 
+*(Download proxies printable)[https://github.com/ArturMoczulski/mtg-polish-resilience/blob/b9c2955b7ddbefcc1587c1dd60ec1eca3daebadc/printables/proxy-labels.pdf]*
+
 The fastest way to actually play the deck is to use proxy labels if you don't want to print the actual cards. You can find a PDF in `printables/proxy-labels.pdf` with card names and compact descriptions to print, cut out and put in front of traditional cards in card sleeves.
 
 ### Printing actual cards
+
+*(Download full cards printable)[[https://github.com/ArturMoczulski/mtg-polish-resilience/blob/b9c2955b7ddbefcc1587c1dd60ec1eca3daebadc/printables/proxy-labels.pdf](https://github.com/ArturMoczulski/mtg-polish-resilience/blob/b9c2955b7ddbefcc1587c1dd60ec1eca3daebadc/printables/full-deck.pdf)]*
 
 In `printables/full-deck.pdf` you can find a ready to print document of all cards in standard MTG size 2.5in x 3.5in. It includes the whole deck composition, including basic lands and tokens.
 
