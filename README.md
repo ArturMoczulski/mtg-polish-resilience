@@ -71,9 +71,9 @@ In `printables/full-deck.pdf` you can find a ready to print document of all card
 - Warmia-Mazury (Plains) 001
 - Warmia-Mazury (Plains) 002
 - Warmia-Mazury (Plains) 003
-- Silesia (Mountains) 001
-- Silesia (Mountains) 002
-- Silesia (Mountains) 003
+- Silesia (Mountain) 001
+- Silesia (Mountain) 002
+- Silesia (Mountain) 003
 
 ---
 
