@@ -63,29 +63,46 @@ AI-generated MTG deck themed with history of Poland 1918-1989
 
 ## Deck composition
 
-Creatures: (16 cards)
-4x Warsaw Defender
-3x Partisan Guerrilla
-3x Solidarity Activist
-3x Uprising Leader
-1x Gdańsk Shipbuilder
-1x Pilsudski's Cavalry
-1x Home Army Spy
-1x Lech Walesa, the Solidarity
-Enchantments: (4 cards)
-1x Echoes of History
-1x Resilient Spirit
-1x Polish Resolve
-1x Solidarity's Stand
-Instants: (3 cards)
-1x Warsaw's Retribution
-1x Martial Law
-1x Fire of Resistance
-Planeswalker: (1 card)
-1x Lech Walesa, Leader of Change
-Lands: (24 cards)
-4x Gdansk Harbor
-3x Warsaw Ruins
-2x Solidarity Square
-5x Mountain
-6x Plains
+**Creatures:**
+
+- 4x Warsaw Defender {R}{W}
+- 3x Partisan Guerrilla {1}{W}
+- 3x Solidarity Activist {2}{W}
+- 3x Uprising Leader {1}{R}
+- 1x Gdańsk Shipbuilder {2}{R}
+- 1x Pilsudski's Cavalry {3}{R}
+- 1x Home Army Spy {2}{W}
+- 1x Lech Walesa, the Solidarity {2}{R}{W}
+
+---
+
+**Enchantments:**
+
+- 1x Echoes of History {2}{W}
+- 1x Resilient Spirit {1}{R}
+- 1x Polish Resolve {2}{R}
+- 1x Solidarity's Stand {3}{W}
+
+---
+
+**Instants:**
+
+- 1x Warsaw's Retribution {1}{W}
+- 1x Martial Law {R}{W}
+- 1x Fire of Resistance {1}{R}
+
+---
+
+**Planeswalker:**
+
+- 1x Lech Walesa, Leader of Change {2}{R}{W}
+
+---
+
+**Lands:**
+
+- 4x Gdansk Harbor
+- 3x Warsaw Ruins
+- 2x Solidarity Square
+- 5x Mountain
+- 6x Plains
