@@ -138,4 +138,4 @@ The cards were assembled using (MTG Cards Smith)[https://mtgcardsmith.com/].
 
 ## Author
 
-The deck, art and assembly by Artur Moczulski.
+The deck, art generation and assembly by Artur Moczulski using ChatGPT, Stable Diffusion and MTG Card Smith.
