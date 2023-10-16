@@ -1,4 +1,4 @@
-# mtg-polish-resilience
+# Polish Resilience - Magic: the Gathering Deck
 
 AI-generated MTG deck themed with history of Poland 1918-1989
 
