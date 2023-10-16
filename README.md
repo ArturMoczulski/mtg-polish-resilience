@@ -24,7 +24,7 @@ In `printables/full-deck.pdf` you can find a ready to print document of all card
 
 ## Cards
 
-![Polish Resilience MTG Deck](https://github.com/ArturMoczulski/mtg-polish-resilience/blob/4e294ef6e888412f789367e3ec7a91e15ed68c5b/Deck%20Collage.png)
+![Polish Resilience MTG Deck](https://github.com/ArturMoczulski/mtg-polish-resilience/blob/a082957fce21ddcf09089c60f49f548cfd30048a/Deck%20Collage.png)
 
 **Creatures:**
 
