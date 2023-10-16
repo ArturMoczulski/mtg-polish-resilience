@@ -12,7 +12,8 @@ In play tests the deck tested succesfully to express this strategy.
 
 **Creatures:**
 
-- Warsaw Defender {R}{W}
+- Warsaw Defender ![R](https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a)![W](https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/7daf5f47-d81f-44ca-af6e-961b6bdde5d1)
+
 - Partisan Guerrilla {1}{W}
 - Solidarity Activist {2}{W}
 - Uprising Leader {1}{R}
