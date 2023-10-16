@@ -29,7 +29,7 @@ In `printables/full-deck.pdf` you can find a ready to print document of all card
 - Gdańsk Shipbuilder <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/1a04442b-857a-4344-9322-d831cc0a17fa" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
 - Pilsudski's Cavalry <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/20e4b2dd-ffac-4dff-acb7-f2936f80de89" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
 - Home Army Spy <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/1a04442b-857a-4344-9322-d831cc0a17fa" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
-- Lech Walesa, the Solidarity <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/1a04442b-857a-4344-9322-d831cc0a17fa" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- Lech, the Solidarity <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/1a04442b-857a-4344-9322-d831cc0a17fa" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 
 ---
 
@@ -45,14 +45,14 @@ In `printables/full-deck.pdf` you can find a ready to print document of all card
 **Instants:**
 
 - Warsaw's Retribution <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/6168fdfe-6c53-4977-ae36-e773c3e6d6af" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
-- Martial Law  <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- Martial Law <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 - Fire of Resistance <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/6168fdfe-6c53-4977-ae36-e773c3e6d6af" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
 
 ---
 
 **Planeswalker:**
 
-- Lech Walesa, Leader of Change <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/1a04442b-857a-4344-9322-d831cc0a17fa" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- Lech, Leader of Change <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/1a04442b-857a-4344-9322-d831cc0a17fa" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 
 ---
 
@@ -84,14 +84,14 @@ In `printables/full-deck.pdf` you can find a ready to print document of all card
 
 **Creatures:**
 
-- 4x Warsaw Defender  <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- 4x Warsaw Defender <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 - 3x Partisan Guerrilla <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/6168fdfe-6c53-4977-ae36-e773c3e6d6af" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 - 3x Solidarity Activist <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/1a04442b-857a-4344-9322-d831cc0a17fa" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 - 3x Uprising Leader <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/6168fdfe-6c53-4977-ae36-e773c3e6d6af" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
 - 1x Gdańsk Shipbuilder <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/1a04442b-857a-4344-9322-d831cc0a17fa" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
 - 1x Pilsudski's Cavalry <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/20e4b2dd-ffac-4dff-acb7-f2936f80de89" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
 - 1x Home Army Spy <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/1a04442b-857a-4344-9322-d831cc0a17fa" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
-- 1x Lech Walesa, the Solidarity <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/1a04442b-857a-4344-9322-d831cc0a17fa" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- 1x Lech, the Solidarity <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/1a04442b-857a-4344-9322-d831cc0a17fa" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 
 ---
 
@@ -107,14 +107,14 @@ In `printables/full-deck.pdf` you can find a ready to print document of all card
 **Instants:**
 
 - 1x Warsaw's Retribution <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/6168fdfe-6c53-4977-ae36-e773c3e6d6af" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
-- 1x Martial Law  <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- 1x Martial Law <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 - 1x Fire of Resistance <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/6168fdfe-6c53-4977-ae36-e773c3e6d6af" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15">
 
 ---
 
 **Planeswalker:**
 
-- 1x Lech Walesa, Leader of Change <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/1a04442b-857a-4344-9322-d831cc0a17fa" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
+- 1x Lech, Leader of Change <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/1a04442b-857a-4344-9322-d831cc0a17fa" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/60064b66-478e-4bde-82f0-e5fb8bf3641a" width="15" height="15"> <img src="https://github.com/ArturMoczulski/mtg-polish-resilience/assets/2106631/246ff955-69f1-4837-9816-c2a064c8bdbb" width="15" height="15">
 
 ---
 
