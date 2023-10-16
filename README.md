@@ -135,3 +135,7 @@ The art was generated with Stable Diffusion model running on (RunDiffusion)[http
 ### Card assembly
 
 The cards were assembled using (MTG Cards Smith)[https://mtgcardsmith.com/].
+
+## Author
+
+The deck, art and assembly by Artur Moczulski.
