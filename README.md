@@ -18,13 +18,13 @@ The fastest way to actually play the deck is to use proxy labels if you don't wa
 
 ### Printing actual cards
 
-**[Download full cards printable](https://github.com/ArturMoczulski/mtg-polish-resilience/blob/b9c2955b7ddbefcc1587c1dd60ec1eca3daebadc/printables/full-deck.pdf)**
+**[Download full cards printable](https://github.com/ArturMoczulski/mtg-polish-resilience/blob/d0d6ff9ddfd25208810788fc47710ddf9cbcc8e4/printables/full-deck.pdf)**
 
 In `printables/full-deck.pdf` you can find a ready to print document of all cards in standard MTG size 2.5in x 3.5in. It includes the whole deck composition, including basic lands and tokens.
 
 ## Cards
 
-![Polish Resilience MTG Deck](https://raw.githubusercontent.com/ArturMoczulski/mtg-polish-resilience/d321fce38febfda5c28b41ff0420cc0793c88be2/Deck%20Collage.png)
+![Polish Resilience MTG Deck](https://github.com/ArturMoczulski/mtg-polish-resilience/blob/4e294ef6e888412f789367e3ec7a91e15ed68c5b/Deck%20Collage.png)
 
 **Creatures:**
 
